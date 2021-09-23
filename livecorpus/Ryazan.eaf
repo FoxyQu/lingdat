@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-23T23:41:01+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T00:23:29+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/роузз/ВШЭ/Лин дан/ELAN/Пороховая_бочка._Взрывы_на_базе_под_Рязанью_и_их_последствия_(online-video-cutter.com).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Пороховая_бочка._Взрывы_на_базе_под_Рязанью_и_их_последствия_(online-video-cutter.com).wav"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/роузз/ВШЭ/Лин дан/ELAN/Пороховая бочка. Взрывы на базе под Рязанью и их последствия (online-video-cutter.com).mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Пороховая бочка. Взрывы на базе под Рязанью и их последствия (online-video-cutter.com).mp4"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/роузз/ВШЭ/Лин дан/ELAN/Ryazan/Ryazan.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Ryazan.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/роузз/ВШЭ/Лин дан/ELAN/Ryazan/Ryazan.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Ryazan.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:268dd483-0c21-4f5b-b666-2150fbeb08ad</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">73</PROPERTY>
     </HEADER>
@@ -83,27 +83,27 @@
     <TIER ANNOTATOR="Smirnova Vera" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@nn1979f" TIER_ID="@nn1979f-text">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>У нас обвалилась... э... крыша /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>у нас обвалилась... э... крыша /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>У нас взрывной волной, видимо, вот через веранду, когда все стекла, двери повылетали, э... //  </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>у нас взрывной волной, видимо, вот через веранду, когда все стекла, двери повылетали, э... //  </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>Ну... в принципе все, дом аварийный /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну... в принципе все, дом аварийный /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>Комиссия была, сказали, что мы... мы не представляем, что здесь можно сд... ремонтировать // </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>комиссия была, сказали, что мы... мы не представляем, что здесь можно сд... ремонтировать // </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>У меня в квартире служебное жилье /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>у меня в квартире служебное жилье /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -118,92 +118,92 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>А в деревне / это моя единственная собственность, понимаете? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а в деревне / это моя единственная собственность, понимаете? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>Вот это / полдомишки / </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вот это / полдомишки / </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>Ну... главное живы сами</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну... главное живы сами</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>Да //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>Да, с девяносто третьего года мы там... да /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>да, с девяносто третьего года мы там... да /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
-                <ANNOTATION_VALUE>Вот сегодня ходили, завалы там разбирали на работе</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вот сегодня ходили, завалы там разбирали на работе</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>Тридцать лет назад мы с Кавказа уезжали э... / </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>тридцать лет назад мы с Кавказа уезжали э... / </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>Я так же от войны уезжала, все потеряла // </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я так же от войны уезжала, все потеряла // </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>Вот / все повторилось /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вот / все повторилось /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>У меня ребенку полгодика было, когда в бомбоубежище сидели // </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>у меня ребенку полгодика было, когда в бомбоубежище сидели // </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>Стреляет и стреляет / ну... мы вроде привыкли, когда у нас бывает там / школьников привозят на полигон / э... заниматься, э... / в... военные тренируются //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>стреляет и стреляет / ну... мы вроде привыкли, когда у нас бывает там / школьников привозят на полигон / э... заниматься, э... / в... военные тренируются //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>Ну / как-то эта стрельба такая была //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну / как-то эта стрельба такая была //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>П... подозрительная //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>п... подозрительная //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
-                <ANNOTATION_VALUE>А когда уже / собралась идти с обеда на работу, смотрю, народ бежит //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а когда уже / собралась идти с обеда на работу, смотрю, народ бежит //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>Вот только таким образом / и догадались-то, что что-то невероятно страшное // </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>вот только таким образом / и догадались-то, что что-то невероятно страшное // </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
-                <ANNOTATION_VALUE>У меня четыре козы /  Мы их спасли тоже / Саша приезжал на велосипеде с... в... с поля //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>у меня четыре козы /  мы их спасли тоже / Саша приезжал на велосипеде с... в... с поля //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts61">
-                <ANNOTATION_VALUE>Сначала маму, меня вывез, потом поехал на велике / забрал скотину и... увез //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>сначала маму, меня вывез, потом поехал на велике / забрал скотину и... увез //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
-                <ANNOTATION_VALUE>Бегом бежали, да, потому что если б мы их не спасли /</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>бегом бежали, да, потому что если б мы их не спасли /</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -213,12 +213,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-                <ANNOTATION_VALUE>Это мы заколотили уже //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это мы заколотили уже //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts72">
-                <ANNOTATION_VALUE>Все окна /  мешками, потому что другой возможности закры... закрыть окна нет //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>все окна /  мешками, потому что другой возможности закры... закрыть окна нет //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -232,37 +232,37 @@
     <TIER ANNOTATOR="Smirnova Vera" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@mp1998m" TIER_ID="@mp1998m-text">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
-                <ANNOTATION_VALUE>Мм, угу //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мм, угу //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
-                <ANNOTATION_VALUE>Аа / вы, получается, / на... там работаете на базе? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а / вы, получается, / на... там работаете на базе? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>И щас продолжаете все равно работать? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и щас продолжаете все равно работать? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
-                <ANNOTATION_VALUE>Ниче себе //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ниче себе //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
-                <ANNOTATION_VALUE>Мм //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мм //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE>Мм //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мм //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts62">
-                <ANNOTATION_VALUE>От пожара?//</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>от пожара?//</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
